@@ -1,0 +1,33 @@
+.factDiv{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.animeFacts{
+    display: flex;
+    align-items: center;
+    
+}
+.noOfFacts{
+    font-size: 50px;
+}
+
+.factId{
+   font-size: 30px;
+   color: black;
+   
+    font-family: 'Roboto', sans-serif;
+}
+.topBar{
+    display: flex;
+    justify-content: flex-start;
+}
+.homeButton{
+    text-decoration: none;
+    color: black;
+}
+.Waiting{
+    color: white;
+    padding: 30px;
+}

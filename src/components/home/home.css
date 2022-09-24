@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.animeDisplay{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+
+}
+.animeImage{
+    width: 50%;
+}
+
+
+.animeDesc{
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.animeTitle{
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
